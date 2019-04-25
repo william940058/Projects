@@ -18,6 +18,8 @@ public class App {
         // TODO code application logic here
         System.out.println("hello world");
 	System.out.println("I am editing it now.");
+	for(int i = 0; i < 10; i++){
+		System.out.println(i);
     }
     
 }
